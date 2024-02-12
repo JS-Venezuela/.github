@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/company/js-venezuela/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/javascript_vzla)
 
-Bienvenidos a la Comunidad JavaScript Venezuela, un punto de encuentro para todos aquellos interesados en el vasto mundo de la tecnología, con un enfoque especial en JavaScript y áreas relacionadas. Nuestro objetivo es crear un espacio de colaboración, aprendizaje y crecimiento para entusiastas de la tecnología en Venezuela y de habla hispana.
+Bienvenidos a la Comunidad JavaScript Venezuela, un punto de encuentro para todos aquellos interesados en el vasto mundo de la tecnología, con un enfoque especial en JavaScript y áreas relacionadas. Nuestro objetivo es crear un espacio de colaboración, aprendizaje y crecimiento para entusiastas de la tecnología en Venezuela y toda la región de habla hispana.
 
 ## ¿Quiénes Somos? 👥
 
